@@ -1,3 +1,4 @@
- 1 *.swp
- 2 build/
- 3 *egg.info/
+ *.swp
+ build/
+ *egg.info/
+*.tok 
