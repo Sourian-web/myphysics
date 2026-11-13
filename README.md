@@ -28,3 +28,12 @@ The project will be organized into separate Python modules for lattice generatio
 ## Status
 
 Under development.
+
+## Kagome Lattice Structure
+
+The Kagome lattice is a two-dimensional network of
+corner-sharing triangles with three sites per primitive unit cell.
+
+![Kagome Lattice](images/kagome_lattice.png)
+
+Figure 1: Schematic representation of an ideal Kagome lattice.
