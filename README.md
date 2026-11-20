@@ -42,11 +42,33 @@ myphysics/
 └── examples/
 ```
 
-The planned `KagomeLattice` class in `kagome.py` will represent the lattice and generate its coordinates. `defects.py` will remove selected sites, and `visualization.py` will display the resulting geometry. The structure above is a **plan**, not a claim that every file is implemented.
+## Installation
 
-## Status
+### 1. Clone the repository
 
-Under development. The lattice-generation, vacancy, and visualization functionality described above is planned and has not yet been completed.
+```bash
+git clone https://github.com/Sourian-web/myphysics.git
+cd myphysics
+```
+
+### 2. Create a Conda environment
+
+```bash
+conda create -n kagome python=3.11
+conda activate kagome
+```
+
+### 3. Install required libraries
+
+```bash
+conda install numpy matplotlib
+```
+
+### 4. Project Status
+
+The project is currently under development.
+The Kagome lattice generation and visualization
+modules have not yet been implemented.
 
 ## References
 
